@@ -1,0 +1,15 @@
+html {
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 20px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
