@@ -9,3 +9,5 @@ Converter enable to calculate the value of the PLN _/Polish zloty/_ into one of 
 
 - simplicity of the code allows for ease expansion to additional currencies.
 - `input` field allows to enter only **positive numbers**
+
+![Currency converter share](img/share.png)
