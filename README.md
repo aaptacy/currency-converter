@@ -8,4 +8,4 @@ Converter enable to calculate the value of the PLN _/Polish zloty/_ into one of 
 ## Features:
 
 - simplicity of the code allows for ease expansion to additional currencies.
-- `input` field allow only to receive **positive numbers**
+- `input` field allows to enter only **positive numbers**
