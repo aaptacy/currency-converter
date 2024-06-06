@@ -63,10 +63,11 @@
     padding: 1.4%;
     resize: none;
     height: 40px;
-    min-width: 300px;
+    min-width: 350px;
     font-weight: bolder;
     text-align: center;
     vertical-align: middle;
-    background-color: hsl(147, 30%, 80%);
+    background-color: hsl(132, 82%, 83%);
+    border-color: hsl(133, 20%, 41%)e;
     border-radius: 5px;
 }
